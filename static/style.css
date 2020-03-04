@@ -1,1 +1,4 @@
-/* Add custom styles here, as needed */
+div.xs-p2 img{
+    height: 200px; /* height of container */
+    object-fit: cover;
+}
