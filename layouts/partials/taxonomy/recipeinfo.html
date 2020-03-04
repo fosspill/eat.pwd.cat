@@ -1,0 +1,7 @@
+<div class="recipe"> 
+  <span itemprop="recipeYield">Yield: {{ with .yield }}{{ . }}{{ else }}N/A{{ end }}</span>
+  <span> - </span>
+  <span itemprop="recipePrepTime">Prep time: {{ with .prepTime }}{{ . }}{{ else }}N/A{{ end }}</span>
+  <span> - </span>
+  <span itemprop="recipeCookTime">Cook time: {{ with .cookTime }}{{ . }}{{ else }}N/A{{ end }}</span>
+</div>
