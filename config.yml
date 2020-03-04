@@ -1,7 +1,7 @@
 baseURL: https://eat-pwd-cat.onrender.com/
 disablePathToLower: true
 languageCode: en-us
-title: Vegan Recipies
+title: Vegan Recipes
 theme: gochowdown
 googleAnalytics: false
 defaultcontentlanguage: en
@@ -14,8 +14,8 @@ pygmentsOptions: "linenos=table"
 permalinks:
   posts: /posts/:year/:month/:title
 params:
-  author: John Doe
-  description: Recipes used by the Doe family
+  author: Ole Erik and Ivanka
+  description: Recipes used by the Brennhagen-Heins family :) 
   keywords: 'recipes'
   favicon_32: /images/favicon-32x32.png
   favicon_16: /images/favicon-16x16.png
