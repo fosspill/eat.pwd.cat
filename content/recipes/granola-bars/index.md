@@ -9,6 +9,7 @@ sourceName: From My Bowl
 sourceURL: https://frommybowl.com/vegan-chewy-granola-bars/
 category: snack
 cuisine: American
+tags:
   - snack
   - granola
   - vegan
