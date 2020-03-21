@@ -1,0 +1,5 @@
+<div class="origins">
+  <p class="clearfix">Original recipe: 
+    <a href="{{ with .sourceURL }}{{ . }}{{ end }}"><span itemprop="recipeOrigin">{{ with .sourceName }}{{ . }}{{ else }}N/A{{ end }}</span></a>
+  </p>
+</div>

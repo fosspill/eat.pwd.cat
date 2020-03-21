@@ -129,6 +129,7 @@
     {{ with .Params.Category }}{{ partial "taxonomy/category" . }}{{ end }}
     {{ with .Params.Cuisine }}{{ partial "taxonomy/cuisine" . }}{{ end }}
     {{ with .Params.Tags }}{{ partial "taxonomy/tags" . }}{{ end }}
+    {{ partial "taxonomy/recipeorigin" (dict "sourceName" .Params.SourceName "sourceURL" .Params.SourceURL) }}
 
   </article>
 </div>
