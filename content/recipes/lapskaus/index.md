@@ -18,10 +18,9 @@ cookTime: 15
 
 ingredients:
 - 1 bag lapskausblanding
-- 50 grams vegan margarin
-- 3 tbsp flour
-- 2 cubes vegetable stock
-- 7 dl water
+- 100 grams vegan margarin
+- 6 tbsp flour
+- 1.2 l vegetable broth
 - vegan meat replacement of choice
 - a couple drops caramel colouring (sukkerkulør)
 
@@ -29,7 +28,7 @@ ingredients:
 directions:
 - Prepare your meat replacement and put aside.
 - Melt the butter in a pan and stir in the flour.
-- Carefully add the water and the vegetable stock cubes and bring to a boil.
+- Carefully add the the vegetable broth and bring to a boil.
 - Add the vegetables and meat replacement. Turn the heat down and simmer for about 10 minutes, until the vegetables are tender.
 - Add salt and pepper to taste, and add a couple drops of caramel colouring to get the desired lapskaus colour.
 ---
