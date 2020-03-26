@@ -7,12 +7,11 @@ image: mashed_potatoes.jpg
 imagecredit: https://images.media-allrecipes.com/userphotos/720x405/5294868.jpg
 sourceName: AllRecipes
 sourceURL: https://www.allrecipes.com/recipe/24771/basic-mashed-potatoes/
-category: 
-cuisine: # The region associated with your recipe. For example, "French", Mediterranean", or "American".
-tags: # You don't have to have 3, feel free to have 10, 1, or none
-  - tag1
-  - tag2
-  - tag3 
+category: side
+cuisine: British
+tags:
+  - potatoes
+  - vegan
 yield: 8
 prepTime: 15
 cookTime: 45
