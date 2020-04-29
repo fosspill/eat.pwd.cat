@@ -27,7 +27,7 @@ ingredients:
 - 1 tsp ground cumin
 - 1 tsp salt
 - 1 tsp hot pepper sauce
-- 1 tbsp BBQ sauce
+- 2 tbsp BBQ sauce
 
 
 directions:
