@@ -15,13 +15,13 @@ yield:
 prepTime: 5
 
 ingredients:
-4 tbsp tahini
-2 tbsp olive oil (plus more for garnishing)
-1 garlic clove, mashed and roughly chopped
-400 grams chickpeas
-2 tbsp lemon juice
-4 tbsp water
-0.25 tsp salt
+- 4 tbsp tahini
+- 2 tbsp olive oil (plus more for garnishing)
+- 1 garlic clove, mashed and roughly chopped
+- 400 grams chickpeas
+- 2 tbsp lemon juice
+- 4 tbsp water
+- 0.25 tsp salt
 
 directions:
 - In a food processor, combine the tahini and olive oil and pulse until smooth.
