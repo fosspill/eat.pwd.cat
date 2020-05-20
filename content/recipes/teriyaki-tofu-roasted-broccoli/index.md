@@ -33,6 +33,7 @@ ingredients:
 - 2 garlic cloves
 - 2 tsp olive oil for tofu
 - 2 dl basmati rice
+- 1 head broccoli
 
 directions:
 - Press your tofu for 30 minutes and cut it into bite sized pieces. Cut your broccoli into small florets.
