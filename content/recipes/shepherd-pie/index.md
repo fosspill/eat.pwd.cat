@@ -12,6 +12,8 @@ cuisine: British
 tags:
   - vegan
   - comfort food
+  - potatoes
+  - mushroom
 yield: 4
 prepTime: 20
 cookTime: 30
