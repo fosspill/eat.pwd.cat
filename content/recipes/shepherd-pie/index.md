@@ -2,7 +2,7 @@
 layout: recipe
 date: 2020-05-20T10:54:48+02:00
 draft: false
-title:  "Shepherd Pie" # The title of your awesome recipe
+title:  "Shepherd's Pie" # The title of your awesome recipe
 image: shepherdpie.jpg
 imagecredit: https://i.redd.it/0p74igjz8ip41.jpg
 sourceName: /r/veganrecipes
