@@ -18,7 +18,7 @@ prepTime: 15
 cookTime: 45
 
 ingredients:
-- 150 ml vegan heavy whipping cream
+- 150 ml almond milk
 - 2 cloves garlic
 - 4 tbsp lemon juice
 - 1 tsp pepper
